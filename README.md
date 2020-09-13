@@ -1,1 +1,3 @@
-# tushawangxinran
+# 虐杀亡欣撚专用Git
+
+此Git为永久防失联地址，欢迎各位收藏
